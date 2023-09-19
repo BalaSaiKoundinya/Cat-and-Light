@@ -1,7 +1,7 @@
-function switchOff {
+function switchOff() {
 
 }
 
-function switchOn {
-    
+function switchOn() {
+
 }
